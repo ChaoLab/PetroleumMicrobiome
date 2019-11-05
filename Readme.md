@@ -7,5 +7,5 @@ The 14 DNAs from aqueous and oil phases of petroleum reservoir samples across Ch
 Arch347F/Arch806R: GYGCASCAGKCGMGAAW/GGACTACVSGGGTATCTAAT    
 515F/909R: GTGCCAGCMGCCGCGGTAA/GGACTACHVGGGTWTCTAAT    
 
-Original sequencing files: Archaea_sequencing_fasta_and_fastq_files.zip    
+Original sequencing files: Archaea_sequencing_fasta_and_fastq_files.zip (splitted into 11 files)
 Original sequencing files: Prokaryotes_sequencing_fasta_and_fastq_files.zip    
